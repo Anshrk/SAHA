@@ -1,18 +1,14 @@
-# 🧠 Legal Intake Assistant (LLM-powered)
-
-This is an AI-powered legal intake assistant built using **ReactJS, Streamlit**, **LlamaIndex**, **LangChain**, and **Ollama** (with the LLaMA3 model). It helps users describe their legal problems, identifies the relevant area of law, and suggests the type of lawyer they should consult. Optionally, it can display a list of matching lawyers from a CSV file.
-
+# LegalAid
+An AI- powered website to digitalize the way law is enforced and practised.
 ---
 
 ## 🚀 Features
-
-- Conversational interface to collect user input.
-- Guided questions (max 5) to identify the user's legal issue.
-- Smart recommendation of lawyer type.
-- Integration with a document-based **RAG system** using `llama_index`.
-- Displays a list of suitable lawyers from a local CSV database.
-- Gracefully ends the conversation with a final recommendation.
-- Option to restart a new consultation.
+- Dashboard for organization
+- Digital contracts and documentation over physical
+- records
+- Contracts generated using chatbot
+- Smart bot that helps clients find suitable lawyers
+- Interface to select lawyer based on preference
 
 ---
 
